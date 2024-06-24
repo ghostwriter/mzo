@@ -32,7 +32,7 @@
     "require": {
         "php": ">=8.3",
         "ghostwriter/case-converter": "^1.0.0",
-        "ghostwriter/clock": "^2.0.0",
+        "ghostwriter/clock": "^2.0.0 || ^3.0.0",
         "ghostwriter/collection": "^2.0.0",
         "ghostwriter/config": "^0.4.1",
         "ghostwriter/container": "^3.0.3",
