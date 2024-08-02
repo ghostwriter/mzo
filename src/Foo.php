@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Ghostwriter\Wip;
+namespace Ghostwriter\Mzo;
 
 /** @see FooTest */
 final class Foo
